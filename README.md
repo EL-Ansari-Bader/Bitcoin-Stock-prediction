@@ -1,2 +1,2 @@
-# Bitcoin-Stock-orediction
+# Bitcoin-Stock-prediction
 LSTM RNN SentimentAnalysis Tuning
